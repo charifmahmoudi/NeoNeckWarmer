@@ -5,7 +5,7 @@ Stylish IoT Neck Warmer controlled from mobile browser
 
 After reading some articles about the fashion tends, i was surprised that the neck warmer is considered by some articles as one of the seven biggest trends for the Spring 2016. Like all self-respecting wearable maker, i highly was tempted to add an IoT touch to this fashion trend.
 
-Build and flash the code
+## Build and flash the code
 
 The code source uses the Adafuit neopixel library. Make sure that you are using the latest version. the earlier versions did not have support for RGBW pixels rather than RGB pixels.
 
