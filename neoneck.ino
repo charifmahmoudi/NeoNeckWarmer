@@ -22,8 +22,8 @@ Adafruit_NeoPixel strip = Adafruit_NeoPixel(PIXEL_COUNT, PIXEL_PIN, PIXEL_TYPE);
 
 // WIFI configutarion
 
-char ssid[] = "charif";      //  your network SSID (name)
-char pass[] = "mahmoudi";   // your network password
+char ssid[] = "YOUR-SSID";      //  your network SSID (name)
+char pass[] = "YOUR-PASS";   // your network password
 int status = WL_IDLE_STATUS;
 WiFiServer server(80);
 
